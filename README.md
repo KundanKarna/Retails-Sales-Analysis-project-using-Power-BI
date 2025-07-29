@@ -12,6 +12,10 @@ The goal of this project is to transform raw sales data into meaningful insights
 - Building interactive reports and dashboards
 - Publishing reports with Row-Level Security (RLS), auto-refresh, and subscription features
 
+# Data Collection or Requirement Gathering in Power BI
+Data collection and requirement gathering are crucial steps in the process of building and implementing any system, application, or project. They involve gathering, documenting, and analyzing the information needed to understand the goals, constraints, and specifications of the project. In this step we will mainly focus on BRD, FRD, and Datasets from various sources which will be shared to you by clients. Some of the clients provides only BRD document, and some are provides both BRD and FRD. In BRD it will have actual business use case and what needs to be done in this project. In FRD document, there might be some functionality involved like what needs to be done and each specific tasks that we need to perform.
+
+
 
 🗂️ Data Modeling
 
@@ -65,4 +69,5 @@ Steps Followed
 
 📊 Outcome
 
-This project provides valuable experience in designing business-focused dashboards and working with real-world data integration scenarios. It’s ideal for anyone looking to build a strong portfolio in data analytics using Power BI.
+This project provides valuable experience in designing business-focused dashboards and working with real-world data integration scenarios. It’s ideal for anyone looking to build a strong portfolio in data analytics using Power BI. also there is file Full project process details with screenshot in folder Retail Sales Analysis using Power BI .
+
