@@ -7,7 +7,7 @@ The goal of this project is to transform raw sales data into meaningful insights
 
 - Gathering data from multiple sources (Excel, CSV, MySQL)
 - Performing data cleaning and transformation
-- Creating data models using star schema
+- Creating data models using snow flake schema
 - Developing calculated columns and measures with DAX
 - Building interactive reports and dashboards
 - Publishing reports with Row-Level Security (RLS), auto-refresh, and subscription features
@@ -42,7 +42,7 @@ Steps Followed
 3. Data Cleaning
    - Using Power Query to fix headers, duplicates, splits, and formats
 4. Data Modeling
-   - Star schema relationships
+   - Snowflake schema relationships
    - Custom `DateMaster` table for time intelligence
 5. DAX Calculations
    - Total Revenue, Cost, Gross Profit
@@ -55,8 +55,6 @@ Steps Followed
 8. Publishing and Access
    - Publish to Power BI Service
    - Row-Level Security (RLS) by country using dynamic roles
-   - Setup gateway, schedule refresh, subscriptions, alerts
-   - Share reports securely via workspace and Power BI App
 
 
 🔐 Key Features
@@ -69,5 +67,5 @@ Steps Followed
 
 📊 Outcome
 
-This project provides valuable experience in designing business-focused dashboards and working with real-world data integration scenarios. It’s ideal for anyone looking to build a strong portfolio in data analytics using Power BI. also there is file Full project process details with screenshot in folder Retail Sales Analysis using Power BI .
+This project provides valuable experience in designing business-focused dashboards and working with real-world data integration scenarios. It’s ideal for anyone looking to build a strong portfolio in data analytics using Power BI. also there is file Full project process details with screenshot in folder Retail Saleso Analysis using Power BI with Project Retail Sales doc.docx which gives full step by step process on how to get Analyzed output in Power BI 
 
